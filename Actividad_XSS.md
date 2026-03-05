@@ -1,4 +1,4 @@
-# Actividad: Cross-Site Scripting (XSS)
+# Actividad: Explotación y Mitigación de Cross-Site Scripting (XSS)
 
 ---
 
